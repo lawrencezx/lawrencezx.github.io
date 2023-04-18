@@ -1,5 +1,6 @@
 ## 2023
 * 虚拟机Guest-Host通信机制系列：[vsock，virtio-vsock，upcall之间的关系](/blogs/2023-3-VM-Guest-Host-Communication-Mechanism.html)
+* 出于对内核资源压力的兴趣，分析了[PSI的统计方法](/blogs/2023-4-PSI-Introduction.html)
 
 ## 2022
 * 关于[Linux动态追踪技术](/blogs/2022-3-Linux-Dynamic-Tracing.html)的调研
